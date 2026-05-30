@@ -6,7 +6,7 @@ A small collection of Python string utility functions.
 
 - `reverse(s)` — reverses a string
 - `is_palindrome(s)` — checks whether a string is a palindrome
-- `word_count(s)` — counts the number of wrods in a string
+- `word_count(s)` — counts the number of words in a string
 
 ## Usage
 
